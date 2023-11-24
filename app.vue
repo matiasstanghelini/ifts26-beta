@@ -1,3 +1,3 @@
 <template>
-  <div>Marilyn</div>
+  <div><NuxtPage /></div>
 </template>

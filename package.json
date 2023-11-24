@@ -9,5 +9,10 @@
   },
   "devDependencies": {
     "nuxt": "^3.0.0"
+  },
+  "dependencies": {
+    "@gcba/obelisco": "^1.55.1",
+    "boxicons": "^2.1.4",
+    "material-icons": "^1.13.12"
   }
 }
